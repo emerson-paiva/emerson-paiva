@@ -1,4 +1,6 @@
-### Just keep swimming 🐟
+# Hey, I'm Emerson!
+
+👨🏽‍🚀 - Front End Developer.
 
 <!--
 **oemersonpaiva/oemersonpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
