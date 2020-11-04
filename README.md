@@ -1,6 +1,6 @@
 # Hey, I'm Emerson!
 
-👨🏽‍🚀 - Front End Developer.
+👨🏽‍🚀 - Front End Developer since 2017, self-taught, cinephile, and passionate about the web.
 
 <!--
 **oemersonpaiva/oemersonpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
