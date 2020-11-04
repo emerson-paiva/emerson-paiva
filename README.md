@@ -1,4 +1,4 @@
-# Hey, I'm Emerson!
+## Hey, I'm Emerson!
 
 👨🏽‍🚀 - Front End Developer since 2017, self-taught, cinephile, and passionate about the web.
 
