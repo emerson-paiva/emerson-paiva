@@ -1,6 +1,6 @@
 ## Hey, I'm Emerson!
 
-👨🏽‍🚀 - Front End Developer since 2017, self-taught, cinephile, and passionate about the web.
+👨🏽‍🚀 - Front End Developer since 2017, cinephile, and passionate about the web and indie rock.
 
 - 🔭 I’m currently working as Front End Developer at @ioasys
 - 🌱 I’m currently learning Unit Tests and TypeScript
