@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Front End Developer at @ioasys
 - 🌱 I’m currently learning Unit Tests and TypeScript
-- ⚡ Fun fact: I can't spend one day without music
+- ⚡ Fun fact: I can't spend one day without listening to music
 
 <!--
 - 👯 I’m looking to collaborate on ...
