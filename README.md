@@ -2,7 +2,7 @@
 
 👨🏽‍🚀 - Front End Developer since 2017, self-taught, cinephile, and passionate about the web.
 
-![Emerson's github stats](https://github-readme-stats.vercel.app/api?username=oemersonpava&show_icons=true&theme=synthwave)
+![Emerson's github stats](https://github-readme-stats.vercel.app/api?username=oemersonpaiva&show_icons=true&theme=synthwave)
 
 <!--
 **oemersonpaiva/oemersonpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
