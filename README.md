@@ -2,7 +2,7 @@
 
 👨🏽‍🚀 - Front End Developer since 2017, cinephile, passionate about the web and indie rock.
 
-- 🔭 I’m currently working as Front End Developer at @ioasys
+- 🔭 I’m currently working as Front End Developer at @iFood
 - 🌱 I’m currently learning Unit Tests, TypeScript and English
 - ⚡ Fun fact: I can't spend one day without listening to music
 
