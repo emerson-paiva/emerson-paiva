@@ -1,19 +1,39 @@
-### Hey, I'm Emerson!
+Hi 👋 My name is Emerson Paiva
+==============================
 
-👨🏽‍🚀 - Front End Developer since 2017, cinephile, passionate about the web and indie rock.
+Frontend Developer
+------------------
 
-- 🔭 I’m currently working as Front End Developer at @iFood
-- 🌱 I’m currently learning Unit Tests, TypeScript and English
-- ⚡ Fun fact: I can't spend one day without listening to music
+I've been working as a developer for almost 6 years, I'm passionate about create accessible and fun projects
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [emersonpaiva.dev@gmail.com](mailto:emersonpaiva.dev@gmail.com)
+* 🧠  I'm learning Micro-Frontends
+* ⚡  I can't spend one day without listening to music
 
-### Find me at:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oemersonpaiva/)](https://www.linkedin.com/in/oemersonpaiva/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/oemersonpaiva)](https://twitter.com/oemersonpaiva)
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/emerson-paiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emerson-paiva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/emerson-paiva"><img src="https://github-readme-stats.vercel.app/api?username=emerson-paiva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emerson-paiva's GitHub stats" /></a>
